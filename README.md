@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/placeholder.png" width="120" alt="AttendX Logo"/>
-
 # AttendX
 
 **RFID-based Attendance Management System**
@@ -10,7 +8,6 @@
 
 ![Platform](https://img.shields.io/badge/platform-ESP32-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/language-C%2B%2B%20%2F%20Arduino-orange?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-black?style=flat-square)
 
 </div>
