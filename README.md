@@ -101,7 +101,7 @@ The ESP32 acts as its own Wi-Fi access point. Everything runs on the device.
 | Signal | ESP32 Pin |
 |--------|-----------|
 | Button | GPIO 15 (INPUT_PULLUP) |
-| Buzzer | GPIO 2 |
+| Speaker | GPIO 2 |
 
 > ⚠️ **All peripherals run on the 3.3 V rail. Do not connect anything to VIN/5 V.**  
 > ⚠️ USB Serial (`Serial.print`) is **disabled** — GPIO1 (TX0) is used by the DS1302 RST line.
