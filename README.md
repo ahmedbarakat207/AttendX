@@ -16,7 +16,7 @@
 
 # Gallary
 
-![WhatsApp Image 2026-04-06 at 12 33 07](https://github.com/user-attachments/assets/e27773ff-f93f-43a5-b7fe-0db5beef9a45)
+![WhatsApp Image 2026-04-06 at 20 09 28](https://github.com/user-attachments/assets/b4148f8d-972f-4898-a569-67ac5204aa47)
 
 ![WhatsApp Image 2026-04-06 at 12 34 46](https://github.com/user-attachments/assets/782ce9e5-394c-4a5d-9071-150c99c1ffb8)
 
