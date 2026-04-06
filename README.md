@@ -14,6 +14,14 @@
 
 ---
 
+# Gallary
+
+![WhatsApp Image 2026-04-06 at 12 33 07](https://github.com/user-attachments/assets/e27773ff-f93f-43a5-b7fe-0db5beef9a45)
+
+![WhatsApp Image 2026-04-06 at 12 34 46](https://github.com/user-attachments/assets/782ce9e5-394c-4a5d-9071-150c99c1ffb8)
+
+---
+
 ## What is AttendX?
 
 AttendX is a self-contained, battery-powered attendance system. Students tap an RFID card — the device logs the scan with a timestamp and makes the record instantly available on a built-in web dashboard accessible from any phone or laptop. No internet connection, no external server, no apps to install.
